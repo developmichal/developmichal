@@ -11,77 +11,31 @@ Software developer with practical experience and extensive professional knowledg
  ## 🛠️ Languages and Tools
 
 ### 🧠 Languages & Technologies
-
 ### 🧠 Languages & Technologies
 
 #### 🧩 Tools
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
-    </td>
-  </tr>
-</table>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> Docker
 
 #### 💾 Databases
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/><br>SQL Server
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
-    </td>
-  </tr>
-</table>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="24"/> SQL Server  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24"/> MongoDB
 
 #### 🎨 Frontend
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br>Angular
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
-    </td>
-  </tr>
-</table>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> React  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="24"/> Angular  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML
 
 #### 🔧 Backend / Languages
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>C#
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
-    </td>
-  </tr>
-</table>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/> C#  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> Node.js  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python
+
 
 ## 📫 Contact Me
 
