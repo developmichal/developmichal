@@ -11,80 +11,91 @@ Software developer with practical experience and extensive professional knowledg
  ## 🛠️ Languages and Tools
 
 ### 🛠️ Tools  
-<div align="left">
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+<p align="left">
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
-    <span>Git</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    Git
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
-    <span>Docker</span>
-  </div>
-</div>
+    Docker
+  </span>
+</p>
 
 ### 🗄️ Databases  
-<div align="left">
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+<p align="left">
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/><br/>
-    <span>SQL Server</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    SQL Server
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
-    <span>MySQL</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    MySQL
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/>
-    <span>MongoDB</span>
-  </div>
-</div>
+    MongoDB
+  </span>
+</p>
 
 ### 🎨 Frontend  
-<div align="left">
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+<p align="left">
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
-    <span>React</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    React
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
-    <span>JavaScript</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    JavaScript
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br/>
-    <span>Angular</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    Angular
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
-    <span>CSS</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    CSS
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
-    <span>HTML</span>
-  </div>
-</div>
+    HTML
+  </span>
+</p>
 
 ### 🔧 Backend / Languages  
-<div align="left">
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+<p align="left">
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>
-    <span>C++</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    C++
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/>
-    <span>C# (.NET 8)</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    C# (.NET 8)
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>
-    <span>Java</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    Java
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>
-    <span>Node.js</span>
-  </div>
-  <div style="display:inline-block; text-align:center; margin: 10px;">
+    Node.js
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
-    <span>Python</span>
-  </div>
-</div>
+    Python
+  </span>
+</p>
 
 ## 📫 Contact Me
 
