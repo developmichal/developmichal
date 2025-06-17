@@ -3,6 +3,15 @@
 
 Software developer with practical experience and extensive professional knowledge, with systems thinking and the ability to lead technological processes from idea to implementation. Excellent at writing clean and innovative code, learns quickly and strives to constantly develop. Responsible and highly committed, works well in a team and deals effectively with complex challenges..
 
+ ## 📁 Featured Projects
+
+- **End-to-end | Angular, C#, SQL** | [Meat restaurant ordering website](https://github.com/YourUsername/YourRepository) -
+- server side with Web API, use of advanced architectures: the layer model and dependency injection. Combined with the bootstrap design library and smart implementation of the components.
+- **End-to-end | React, Node.js, MongoDB** | [Vacation rental website](https://github.com/YourUsername/YourRepository) -
+- Using the JWT mechanism for a secure user experience and an advanced search interface while maintaining an optimal user experience.
+
+ ## 🛠️ Languages and Tools
+
 ### 🛠️ Tools  
 <p align="center">
   <div align="center">
