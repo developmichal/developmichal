@@ -11,31 +11,52 @@ Software developer with practical experience and extensive professional knowledg
  ## 🛠️ Languages and Tools
 
 ### 🧠 Languages & Technologies
-### 🧠 Languages & Technologies
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
 
-#### 🧩 Tools
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> Docker
+  <div style="text-align: center;">
+    <h4>🧩 Tools</h4>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>
+      Git
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br>
+      Docker
+    </div>
+  </div>
 
-#### 💾 Databases
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="24"/> SQL Server  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24"/> MongoDB
+  <div style="text-align: center;">
+    <h4>💾 Databases</h4>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" /><br>
+      SQL Server
+    </div>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>
+      MySQL
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /><br>
+      MongoDB
+    </div>
+  </div>
 
-#### 🎨 Frontend
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> React  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="24"/> Angular  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML
-
-#### 🔧 Backend / Languages
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/> C#  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> Node.js  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python
-
+  <div style="text-align: center;">
+    <h4>🎨 Frontend</h4>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>
+      React
+    </div>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>
+      JavaScript
+    </div>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" /><br>
+      Angular
+    </div>
+    <div style="margin-bottom: 12px;">
+      <img src="h
 
 ## 📫 Contact Me
 
