@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Michal Dror
 
-<!--
-**developmichal/developmichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with experience in web development, databases, and modern frameworks like Angular and Node.js.
 
-Here are some ideas to get you started:
+## 💼 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: HTML, CSS, JavaScript, Angular
+- Backend: Node.js, Express
+- Databases: MySQL, H2
+- Version Control: Git & GitHub
+- Others: REST APIs, Clean Architecture, Entity Framework (C#)
+
+## 📂 Projects
+
+Here are some of my public projects:
+- `node` – backend logic in JavaScript
+- `Deploy-Apps` – ToDo app styled with CSS
+- `DEVOPS` – Deployment & DevOps examples
+
+## 📫 Contact Me
+
+- Email: yourname@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
