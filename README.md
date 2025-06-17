@@ -15,9 +15,8 @@ Software developer with practical experience and extensive professional knowledg
 
 ## Projects
 
-[Meat restaurant ordering website] - 
-•	End-to-end | Angular, C#, SQL | [Meat restaurant ordering website](https://github.com/YourUsername/YourRepository)- server side with Web API, use of advanced architectures: the layer model and dependency injection. Combined with the bootstrap design library and smart implementation of the components.
-
+ **End-to-end | Angular, C#, SQL** | [Meat restaurant ordering website](https://github.com/YourUsername/YourRepository)
+-server side with Web API, use of advanced architectures: the layer model and dependency injection. Combined with the bootstrap design library and smart implementation of the components.
 
 ## 📫 Contact Me
 
