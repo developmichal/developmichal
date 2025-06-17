@@ -11,7 +11,7 @@ Software developer with practical experience and extensive professional knowledg
  ## 🛠️ Languages and Tools
 
 ### 🧠 Languages & Technologies
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; gap: 40px; justify-content: flex-start; direction: ltr;">
 
   <div style="text-align: center;">
     <h4>🧩 Tools</h4>
@@ -56,7 +56,41 @@ Software developer with practical experience and extensive professional knowledg
       Angular
     </div>
     <div style="margin-bottom: 12px;">
-      <img src="h
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>
+      CSS
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>
+      HTML
+    </div>
+  </div>
+
+  <div style="text-align: center;">
+    <h4>🔧 Backend / Languages</h4>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br>
+      C++
+    </div>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /><br>
+      C#
+    </div>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>
+      Java
+    </div>
+    <div style="margin-bottom: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br>
+      Node.js
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>
+      Python
+    </div>
+  </div>
+
+</div>
+
 
 ## 📫 Contact Me
 
