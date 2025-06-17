@@ -1,6 +1,7 @@
-# 👋 Hi there, I'm Michal Dror
+# Michal Dror
+## ✨About Me
 
-I'm a passionate developer with experience in web development, databases, and modern frameworks like Angular and Node.js.
+Software developer with practical experience and extensive professional knowledge, with systems thinking and the ability to lead technological processes from idea to implementation. Excellent at writing clean and innovative code, learns quickly and strives to constantly develop. Responsible and highly committed, works well in a team and deals effectively with complex challenges..
 
 ## 💼 Skills
 
@@ -10,12 +11,13 @@ I'm a passionate developer with experience in web development, databases, and mo
 - Version Control: Git & GitHub
 - Others: REST APIs, Clean Architecture, Entity Framework (C#)
 
-## 📂 Projects
+## 📂  Featured Projects
 
-Here are some of my public projects:
-- `node` – backend logic in JavaScript
-- `Deploy-Apps` – ToDo app styled with CSS
-- `DEVOPS` – Deployment & DevOps examples
+## Projects
+
+[Meat restaurant ordering website] - 
+•	End-to-end | Angular, C#, SQL | [Meat restaurant ordering website](https://github.com/YourUsername/YourRepository)- server side with Web API, use of advanced architectures: the layer model and dependency injection. Combined with the bootstrap design library and smart implementation of the components.
+
 
 ## 📫 Contact Me
 
