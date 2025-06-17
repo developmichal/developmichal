@@ -11,85 +11,31 @@ Software developer with practical experience and extensive professional knowledg
  ## 🛠️ Languages and Tools
 
 ### 🧠 Languages & Technologies
-<div style="display: flex; gap: 40px; justify-content: flex-start; flex-wrap: nowrap; overflow-x: auto; direction: ltr;">
+### 🧠 Languages & Technologies
 
-  <div style="text-align: center; min-width: 120px;">
-    <h4>🧩 Tools</h4>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>
-      Git
-    </div>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br>
-      Docker
-    </div>
-  </div>
+#### 🧩 Tools
 
-  <div style="text-align: center; min-width: 120px;">
-    <h4>💾 Databases</h4>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" /><br>
-      SQL Server
-    </div>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>
-      MySQL
-    </div>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /><br>
-      MongoDB
-    </div>
-  </div>
+| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
+| :---: | :---: |
+| Git | Docker |
 
-  <div style="text-align: center; min-width: 120px;">
-    <h4>🎨 Frontend</h4>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>
-      React
-    </div>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>
-      JavaScript
-    </div>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" /><br>
-      Angular
-    </div>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>
-      CSS
-    </div>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>
-      HTML
-    </div>
-  </div>
+#### 💾 Databases
 
-  <div style="text-align: center; min-width: 120px;">
-    <h4>🔧 Backend / Languages</h4>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br>
-      C++
-    </div>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /><br>
-      C#
-    </div>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>
-      Java
-    </div>
-    <div style="margin-bottom: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br>
-      Node.js
-    </div>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br>
-      Python
-    </div>
-  </div>
+| ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
+| :---: | :---: | :---: |
+| SQL Server | MySQL | MongoDB |
 
-</div>
+#### 🎨 Frontend
+
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
+| :---: | :---: | :---: | :---: | :---: |
+| React | JavaScript | Angular | CSS | HTML |
+
+#### 🔧 Backend / Languages
+
+| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
+| :---: | :---: | :---: | :---: | :---: |
+| C++ | C# | Java | Node.js | Python |
 
 ## 📫 Contact Me
 
