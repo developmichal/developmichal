@@ -5,9 +5,9 @@ Software developer with practical experience and extensive professional knowledg
 
  ## 📁 Featured Projects
 
-- **End-to-end | Angular, C#, SQL |**[Meat Restaurant Ordering Website](https://github.com/developmichal/Meat-restaurant-ordering-website) -Server-side with Web API, use of advanced architectures: layered model and dependency injection. Combined with Bootstrap design library and smart component implementation.
+- **End-to-end | Angular, C#, SQL |** [Meat Restaurant Ordering Website](https://github.com/developmichal/Meat-restaurant-ordering-website) -Server-side with Web API, use of advanced architectures: layered model and dependency injection. Combined with Bootstrap design library and smart component implementation.
 
-- **End-to-end | React, Node.js, MongoDB |**[Vacation Rental Website](https://github.com/developmichal/Vacation-rental-website)-Built using JWT for secure authentication, with an advanced search interface while maintaining an optimal user experience.
+- **End-to-end | React, Node.js, MongoDB |** [Vacation Rental Website](https://github.com/developmichal/Vacation-rental-website)-Built using JWT for secure authentication, with an advanced search interface while maintaining an optimal user experience.
 
 
  ## 🛠️ Languages and Tools
