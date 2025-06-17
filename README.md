@@ -11,9 +11,9 @@ Software developer with practical experience and extensive professional knowledg
  ## 🛠️ Languages and Tools
 
 ### 🧠 Languages & Technologies
-<div style="display: flex; gap: 40px; justify-content: flex-start; direction: ltr;">
+<div style="display: flex; gap: 40px; justify-content: flex-start; flex-wrap: nowrap; overflow-x: auto; direction: ltr;">
 
-  <div style="text-align: center;">
+  <div style="text-align: center; min-width: 120px;">
     <h4>🧩 Tools</h4>
     <div style="margin-bottom: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>
@@ -25,7 +25,7 @@ Software developer with practical experience and extensive professional knowledg
     </div>
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: center; min-width: 120px;">
     <h4>💾 Databases</h4>
     <div style="margin-bottom: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" /><br>
@@ -41,7 +41,7 @@ Software developer with practical experience and extensive professional knowledg
     </div>
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: center; min-width: 120px;">
     <h4>🎨 Frontend</h4>
     <div style="margin-bottom: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>
@@ -65,7 +65,7 @@ Software developer with practical experience and extensive professional knowledg
     </div>
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: center; min-width: 120px;">
     <h4>🔧 Backend / Languages</h4>
     <div style="margin-bottom: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br>
@@ -90,7 +90,6 @@ Software developer with practical experience and extensive professional knowledg
   </div>
 
 </div>
-
 
 ## 📫 Contact Me
 
