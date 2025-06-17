@@ -63,7 +63,25 @@ Software developer with practical experience and extensive professional knowledg
 </table>
 
 #### 🔧 Backend / Languages
-<table style="border-collapse: collapse; border: no
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>C#
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact Me
 
